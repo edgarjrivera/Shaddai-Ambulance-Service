@@ -131,7 +131,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background-color: #178066;
+  background-color: #000000;
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -379,7 +379,7 @@ a:focus {
   width: 90px;
   height: 90px;
   margin-bottom: 15px;
-  background-color: #62d2a2;
+  background-color: #ff0000;
   border-radius: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -426,12 +426,12 @@ a:focus {
 .department_section .btn-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #62d2a2;
+  background-color: #ff0000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #62d2a2;
+  border: 1px solid #ff0000;
 }
 
 .department_section .btn-box a:hover {
@@ -470,22 +470,22 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #62d2a2;
+  background-color: #ff0000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #62d2a2;
+  border: 1px solid #ff0000;
   margin-top: 15px;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #62d2a2;
+  color: #ff0000;
 }
 
 .doctor_section {
-  background: #178066;
+  background: #ff0000;
 }
 
 .doctor_section .heading_container {
@@ -577,7 +577,7 @@ a:focus {
 
 .doctor_section .btn-box a:hover {
   background-color: transparent;
-  color: #1fab89;
+  color: #ff0000;
 }
 
 .contact_section {
@@ -629,17 +629,17 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 12px 55px;
-  background-color: #1fab89;
+  background-color: #ff0000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #1fab89;
+  border: 1px solid #ff0000;
 }
 
 .contact_section .form_container button:hover {
   background-color: transparent;
-  color: #1fab89;
+  color: #ff0000;
 }
 
 .contact_section .map_container {
@@ -716,7 +716,7 @@ a:focus {
 }
 
 .client_section .box .detail-box .name h6 {
-  color: #62d2a2;
+  color: #ff0000;
   font-size: 20px;
 }
 
@@ -739,7 +739,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 12px;
   background-position: center;
-  background-color: #62d2a2;
+  background-color: #ff0000;
   background-position: center;
   border-radius: 5px;
   margin: 0 2.5px;
@@ -747,7 +747,7 @@ a:focus {
 
 .client_section .carousel-control-prev:hover,
 .client_section .carousel-control-next:hover {
-  background-color: #1fab89;
+  background-color: #ff0000;
 }
 
 .client_section .carousel-control-next {
@@ -755,7 +755,7 @@ a:focus {
 }
 
 .footer_section {
-  background: #178066;
+  background: #ff0000;
   color: #ffffff;
   padding: 60px 0 15px 0;
   position: relative;
@@ -877,18 +877,18 @@ a:focus {
   text-align: center;
   display: inline-block;
   padding: 10px 55px;
-  background-color: #62d2a2;
+  background-color: #000000;
   color: #ffffff;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 1px solid #62d2a2;
+  border: 1px solid #ff0000;
   margin-top: 15px;
 }
 
 .footer_section form button:hover {
   background-color: transparent;
-  color: #62d2a2;
+  color: #ff0000;
 }
 
 .footer_section .footer-info {
