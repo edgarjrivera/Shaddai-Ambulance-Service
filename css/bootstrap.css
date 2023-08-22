@@ -10036,3 +10036,14 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+.carousel-item{
+  display: grid;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+    
+} 
+
