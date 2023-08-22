@@ -34,9 +34,7 @@ body {
   margin-top: 90px;
 }
 
-.layout_margin-bottom {
-  margin-bottom: 90px;
-}
+
 
 .heading_container {
   display: -webkit-box;
@@ -131,7 +129,7 @@ a:focus {
 
 .sub_page .hero_area {
   min-height: auto;
-  background-color: #000000;
+  background-color: #ff0000;
 }
 
 .sub_page .hero_area .hero_bg_box {
@@ -926,9 +924,3 @@ a:focus {
   background-color: white;
 }
 
-.fixed-size-img {
-  width: 100%; /* Ancho deseado */
-  height: 200px; /* Altura deseada */
-  object-fit: cover; /* Ajusta la imagen para llenar el contenedor manteniendo la relación de aspecto */
-  
-}

@@ -592,6 +592,7 @@ pre code {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
+  
 }
 
 .no-gutters {
@@ -4191,6 +4192,14 @@ input[type="button"].btn-block {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
+  font-weight: bold;
+   {
+  width: 100%; /* Ancho deseado */
+  height: 200px; /* Altura deseada */
+  object-fit: cover; /* Ajusta la imagen para llenar el contenedor manteniendo la relación de aspecto */
+  
+}
+
 }
 
 .navbar-nav .nav-link {
@@ -4582,6 +4591,7 @@ input[type="button"].btn-block {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+  
 }
 
 .card-title {
