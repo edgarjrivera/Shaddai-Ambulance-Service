@@ -789,7 +789,7 @@ a:focus {
 }
 
 .footer_section .footer_contact .contact_link_box a:hover {
-  color: #62d2a2;
+  color: black;
 }
 
 .footer_section .footer_social {
@@ -817,7 +817,7 @@ a:focus {
 }
 
 .footer_section .footer_social a:hover {
-  color: #62d2a2;
+  color: #000000;
 }
 
 .footer_section .footer_links {
@@ -841,7 +841,7 @@ a:focus {
 }
 
 .footer_section .footer_links a:hover {
-  color: #62d2a2;
+  color: #000000;
 }
 
 .footer_section form input {
